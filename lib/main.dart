@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-
-
-import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:provider_test/pages/cart/index.dart';
+import 'package:provider_test/pages/production/index.dart';
 
 void main() {
   runApp(
